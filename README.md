@@ -10,7 +10,7 @@ I'm currently a Bachelor's student in **Computer Science** at **University of Ca
 
 On my profile, you'll find both university projects and personal ones - built to    explore new technologies and to keep learning beyond the classroom. 💻
 
-I'm passionate about **software engineering**, and at the same time, I'm diving into the world of Artificial Intelligence - it's a long journey, but every line of code brings me closer. 🤖 🛠️
+I'm passionate about **software engineering**, and at the same time, I'm diving into the world of **Artificial Intelligence** - it's a long journey, but every line of code brings me closer. 🤖 🛠️
 
 I believe curiosity is the best debugging tool - it keeps me asking questions, exploring solutions, and loving what I do! 👨🏻‍💻
 
