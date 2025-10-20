@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caterviriccardo@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/riccardocatervi)
 
-I'm currently a Bachelor's student in **Computer Science** at **University of Camerino**. 🎓
+I'm currently a Bachelor's student in **Computer Science** at the **University of Camerino**. 🎓
 
 On my profile, you'll find both university projects and personal ones - built to    explore new technologies and to keep learning beyond the classroom. 💻
 
